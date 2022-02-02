@@ -20,7 +20,7 @@ const App = () => {
           alignItems: 'flex-end',
           width: '100%',
           height: '40%',
-          //zIndex: 1,
+          zIndex: 1,
         }}>
         <View
           style={{
